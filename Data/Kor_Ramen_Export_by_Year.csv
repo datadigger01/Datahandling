@@ -1,4 +1,4 @@
-﻿Year,iso2c,balPayments,expDlr,expWgt,impWgt,impDlr,Import_Country,Exp_Item,Based_Year,expWgt_target,ratio_expWgt_2020b
+﻿Year,iso2c,balPayments,expDlr,expWgt,impWgt,impDlr,Import_Country,Exp_Item,Based_Year,expWgt_2020Y,ratio_expWgt_2020b
 2015,AE,1470020,1470020,275212,0,0,아랍에미리트 연합,라면,2020,1196973,0.229923315
 2015,AR,513384,513384,128065,0,0,아르헨티나,라면,2020,70291,1.821925993
 2015,AS,1111541,1111541,196202,0,0,아메리칸 사모아,라면,2020,225128,0.871513095
